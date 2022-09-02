@@ -333,6 +333,34 @@ input[type=tel]:hover
 	float:left;
    
 }
+.button_details
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 240px;
+	height:40px;
+	border-radius: 10px;
+	text-decoration: none;
+	border: 2px solid #bebab0;
+	font-size: 20px;
+	color:rgb(255, 255, 255);
+	background-color: #aebdac;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+
+
+.button_details:hover
+{
+	border: 2px solid #bebab0;
+	color:rgb(61, 61, 61);
+	background-color: #af9661;
+}
 
 input[type=email]
 {
